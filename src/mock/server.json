@@ -1,0 +1,66 @@
+{
+  "alunos": [
+    [
+      {
+        "ra": "12345",
+        "nome": "Alice Silva",
+        "idade": 21,
+        "curso": "Engenharia da Computação"
+      },
+      {
+        "ra": "23456",
+        "nome": "Bruno Santos",
+        "idade": 22,
+        "curso": "Ciência da Computação"
+      },
+      {
+        "ra": "34567",
+        "nome": "Carla Oliveira",
+        "idade": 20,
+        "curso": "Análise e Desenvolvimento de Sistemas"
+      },
+      {
+        "ra": "45678",
+        "nome": "Daniel Pereira",
+        "idade": 23,
+        "curso": "Sistemas de Informação"
+      },
+      {
+        "ra": "56789",
+        "nome": "Eduarda Costa",
+        "idade": 19,
+        "curso": "Matemática"
+      },
+      {
+        "ra": "67890",
+        "nome": "Felipe Almeida",
+        "idade": 21,
+        "curso": "Física"
+      },
+      {
+        "ra": "78901",
+        "nome": "Gabriela Martins",
+        "idade": 22,
+        "curso": "Química"
+      },
+      {
+        "ra": "89012",
+        "nome": "Henrique Souza",
+        "idade": 20,
+        "curso": "Engenharia Elétrica"
+      },
+      {
+        "ra": "90123",
+        "nome": "Isabela Lima",
+        "idade": 19,
+        "curso": "Arquitetura"
+      },
+      {
+        "ra": "01234",
+        "nome": "Jorge Ribeiro",
+        "idade": 23,
+        "curso": "Design Gráfico"
+      }
+    ]
+  ]
+}
